@@ -1,2 +1,4 @@
 # hello_word
-Primeiro repo
+Meu primeiro repositório no GitHub
+
+Estudando sobre desenvolvimento de aplicativos Mobile
